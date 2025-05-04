@@ -3,7 +3,7 @@
 - 🌱 I’m currently good at full stack development
 - 🌱 I’m currently learning Solidity 
 - 💞️ I’m looking to collaborate on projects and build great things
-- 📫 How to reach me rekezy101@gmail.com and official_rekezy on instagram
+- 📫 How to reach me rekezy101@gmail.com and rekezy_morgan on instagram, rekezy on twitter
 -    Building a community of coders, send a mail.
 
 <!---
